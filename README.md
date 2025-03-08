@@ -1,6 +1,5 @@
 # action_elles_apk_front
 
-```md
 # Interface de simulation et de Souscription d'Assurance - Frontend (React)
 
 ## Description
@@ -14,8 +13,6 @@ Ce projet est une interface web permettant aux utilisateurs de simuler la prime 
 - **TailwindCSS** - Style et responsivité.
 - **Axios** - Appels API vers le backend.
 - **Vite** - Outil de build rapide.
-
----
 
 ## Installation et Lancement
 ### **1️⃣ Prérequis**
