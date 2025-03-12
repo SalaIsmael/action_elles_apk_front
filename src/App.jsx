@@ -6,7 +6,7 @@ import FormulaireSimulation from "./components/FormulaireSimulation";
 
 const App = () => {
     return (
-      <SubscriptionProvider>
+      // <SubscriptionProvider>
         <Router>
             <div className="container-fluid min-h-screen">
                
@@ -17,7 +17,7 @@ const App = () => {
                 </Routes>
             </div>
         </Router>
-      </SubscriptionProvider>
+      // </SubscriptionProvider>
     );
 };
 

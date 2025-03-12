@@ -15,7 +15,7 @@ Ce projet est une interface web permettant aux utilisateurs de simuler la prime 
 - **Vite** - Outil de build rapide.
 
 ## Installation et Lancement
-### ** Prérequis**
+### Prérequis
 - **Node.js** (v22.14.0)
 - **npm**
 
