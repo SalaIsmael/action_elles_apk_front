@@ -22,7 +22,7 @@ Ce projet est une interface web permettant aux utilisateurs de simuler la prime 
 ###  Cloner le projet
 ```sh
 git clone https://github.com/SalaIsmael/action_elles_apk_front.git
-cd action_elles_apk_front
+cd action-elles-apk-front
 ```
 
 ## Installer les dépendances
